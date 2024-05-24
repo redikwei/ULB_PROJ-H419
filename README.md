@@ -1,5 +1,8 @@
 # COVID-19 Detection Using Chest X-Ray Imaging
 
+## Author
+Hongdu WEI
+
 ## Overview
 Utilizes deep learning to classify chest X-ray (CXR) images into COVID-19, Viral Pneumonia, and Normal categories.
 
@@ -12,6 +15,4 @@ Utilizes deep learning to classify chest X-ray (CXR) images into COVID-19, Viral
 - Source: [Kaggle COVID-19 Image Dataset](https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset)
 
 ## Usage
-```bash
-jupyter notebook code_wei.ipynb
-```
+run the jupyter notebook
